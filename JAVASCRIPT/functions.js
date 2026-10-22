@@ -105,7 +105,7 @@ hoisting();
 
 
 
-//BMI calculator 
+//BMI Calculator 
 
 function bmi(weight,height){
     return weight/(height*weight);
